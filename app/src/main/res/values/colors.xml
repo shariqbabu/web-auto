@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0E1525</color>
+    <color name="primary_variant">#1C2333</color>
+    <color name="accent">#00E599</color>
+    <color name="accent_pressed">#00B87A</color>
+    <color name="background">#0E1525</color>
+    <color name="surface">#1C2333</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8C9BAB</color>
+    <color name="status_green">#00E599</color>
+    <color name="status_yellow">#FFCC00</color>
+    <color name="card_bg">#252C3D</color>
+</resources>

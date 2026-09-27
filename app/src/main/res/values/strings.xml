@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Replit Auto Runner</string>
+    <string name="default_url">https://replit.com/@shrqbabu/Gemini-Hub</string>
+    <string name="default_selector">[action="run_button_used"]</string>
+</resources>
